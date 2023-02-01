@@ -85,8 +85,8 @@ El proceso de obtención de los datos esta dentro de los siguientes archivos: [P
 Durante este proyecto se logró analizar la data concerniente a los "Picks" ,"Bans" y "Winrate" de los heroes escogidos en la ultima temporada de la DPC-SA. Los graficos obtenidos son bastante esclarecedores, ya que se puede observar que hay cierta correlación entre los Picks y Bans y el Winrate de cada heroe. Los héroes con mayor Winrate tienen una alta probabilidad de tambien estar presentes en los graficos de Most Picked o Most Banned. Esto concuerda con lo que se ve dentro de las partidas profesionales donde los equipos escogen a los heroes más poderoso o evitan que el otro equipo los pueda escoger mediante un ban. 
 
 Se muestran los graficos obtenidos:
-<img src="https://github.com/luis-flo12/Dota2_Analisis/10_Highest_Winrates.png?raw=true" width="840" height="560">
+<img src="https://github.com/luis-flo12/Dota2_Analisis/blob/main/10_Highest_Winrates.png?raw=true" width="840" height="560">
 
-<img src="https://github.com/luis-flo12/Dota2_Analisis/10_Most_Picked.png?raw=true" width="840" height="560">
+<img src="https://github.com/luis-flo12/Dota2_Analisis/blob/main/10_Most_Picked.png?raw=true" width="840" height="560">
  
-<img src="https://github.com/luis-flo12/Dota2_Analisis/10_most_banned.png?raw=true" width="840" height="560">
+<img src="https://github.com/luis-flo12/Dota2_Analisis/blob/main/Top10_most_banned.png?raw=true" width="840" height="560">
