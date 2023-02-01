@@ -8,7 +8,6 @@
 2. [Tareas](#tasks)
 3. [Data Extraction](#dataextraction)  
 4. [Análisis](#modeling)
-5. [Descripción de los archivos](#files)
 
 ## 1. Introducción  <a name="intro"></a>
 DOTA es uno de los juegos MOBA competitivos más famosos del mundo. Dota es un juego querido por sus jugadores alrededor del mundo y especialmente por la comunidad peruana, ya que es uno de los juegos que más influencia ha tenido dentro de la escena competitiva de los E-sports. Todos los días, millones de jugadores entran en la batalla como uno de los más de cien héroes de DOTA en un choque de equipos 5v5. Cada jugador controla un Héroe, una unidad estrategicamente poderosa con habilidades y caracteristicas únicas que se pueden fortalecer a medida que el juego continue.
